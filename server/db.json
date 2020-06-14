@@ -1,0 +1,23 @@
+{
+    "users": [
+        {
+            "name": "Ben",
+            "email": "b@b.com",
+            "password": "123456"
+        },
+        {
+            "name": "Ann",
+            "email": "a@a.com",
+            "password": "123456"
+        }
+    ],
+    "articles": [
+        {
+            "id": 1,
+            "title": "one",
+            "content": "hello world one",
+            "created_at": "06021990",
+            "updated_at": "06022020"
+        }
+    ]
+}
